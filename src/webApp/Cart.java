@@ -6,4 +6,8 @@ public class Cart {
     // total
     // promo code
 
+    // java coding is interesting
+
+    // deals
+
 }
