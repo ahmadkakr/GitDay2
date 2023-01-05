@@ -4,7 +4,9 @@ public class ContactPage {
 
     // facebook
     // instagram
-    // twitter
+    // Twitter
+    // YouTube
+    // emails
 
 
 
